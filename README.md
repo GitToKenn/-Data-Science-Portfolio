@@ -9,7 +9,14 @@ Hi There, Syifa Alia Balqis here, This repository contains a collection of my da
 
 ---
 
-## Skills Highlighted
-- Python (NumPy, pandas, matplotlib, scikit-learn)
-- Data Visualization (Tableau, Power BI)
-- Machine Learning and Data Analysis
+## Interactive Dashboards on Tableau
+For more visualizations, check out my Tableau Public profile:
+- [My Tableau Public Profile](https://public.tableau.com/app/profile/syifa.alia.balqis/vizzes)
+
+---
+
+## Skills Demonstrated
+- **Python**: Data preprocessing, analysis, and machine learning.
+- **SQL**: Querying and managing databases.
+- **Data Visualization**: Tableau, Power BI, matplotlib.
+- **Soft Skills**: Storytelling with data, problem-solving, and insight generation.
