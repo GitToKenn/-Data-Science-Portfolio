@@ -1,6 +1,7 @@
 # My Data Science Portfolio
 
-This repository contains a collection of my data science projects. Each project is organized into its own folder and includes the associated code, data, and documentation.
+Hi There, Syifa Alia Balqis here, This repository contains a collection of my data science projects. Each project is organized into its own folder and includes the associated code, data, and documentation.
+
 
 ## Projects
 1. **[Absenteeism Analysis](./Absenteeism-Analysis/README.md)**  
